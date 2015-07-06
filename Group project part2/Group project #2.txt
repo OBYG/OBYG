@@ -1,0 +1,48 @@
+OBYG : SeungHwan_Kim/ DongHyuk_Kim/Yujung_Lee/Hyerin_Kim
+
+Group Project Question Identified
+-Which factors affect to house energy efficiency?-
+
+1. Why are you investigating this question?
+ As a college students, there are many things that we have to prepare for new semester. Among such things, the biggest problem we face and consider the most would 
+be the problem of "Choosing a House" for sure. We say that food, clothing, shelter are 3 necessities of living, and there is no doubt that residential environment 
+is closely connected with quality of life.
+ That is why not even college students, but also people who just got out of college, newlyweds, and couples who prepare for their old age put much effort choosing
+rather suitable house. If there is no limit in money and time, we don't have to struggle choosing it, but unfortunately most of us are unter time and financial
+constraints. After all, we should deal with a matter of choice.  
+
+2. How are you going to try and answer your question?
+ What it means that pleasant and comfortable house for people? How can we estimate the satisfied qualitative variables for statistical analysis? For the first time,
+We would represent 'Heating load' and 'Cooling load' for objectification of satisfactory and comfortable in this group project. The Heating load is defined as 
+"The amount of heat energy that would need to be added to a space to maintain the temperature in an acceptable range". and The cooling load is "The amount of heat 
+energy that would need to be removed from a space (cooling) to maintain the temperature in an acceptable range". The heating and cooling loads, or "thermal loads",
+take into account:
+
+1) the dwelling's construction and insulation; including floors, walls, ceilings and roof; and 2) the dwelling's glazing and skylights; based on size, performance,
+shading and overshadowing. 
+
+2.2 The factors which make house comfortable
+ And then, What is the variable which affects Thermal loads? We expect that there are lots of variables affects thermal loads. There are the size of window,
+the size of house, the orientation of house. In this project, we would investigate which variables are significant to thermal load, and how much does they affect.   
+
+
+3. What are the limitations of your question?
+ For this investigation, we can bump into the limitation of represent "pleasant and comfortable" with Single Index, Thermal load(Heating load & Cooling load).
+Furthermore we have to deal with uncountable variables such as orientation, but we don't have appropriate statistical skill yet as undergraduate student. It will
+reduce the kinds of data we can deal with.
+
+4. Who else has answered this question? How will you build Upon other work done with this question?
+ Though, there is a research of  FC McQuiston, JD Parker as much cited research, that is old research and there has been many change of materials and development
+of construction techniques for 30 years, we need to set effect of novel variables. Besides, there are researches of effect analysis on the Thermal Load by balcony
+of apartment house(YongTaek Park, 2000), analysis and design of heating, ventilating, and air conditioning(FC McQuiston. et al. 1982), and cooling load prediction 
+for buildings using general regression neural networks(Elsevier, 2004). Most existing researches analyzed the influence of specific variable. This research,
+considering the researchers' technological limitation, includes process exploring variables which significantly affect Thermal Load and process comparing the 
+influences between each variable. 
+
+
+5. Provide references
+1) The Building Sustainability Index (BASIX) ,New Sounth Wales Goverment, http://www.basix.nsw.gov.au
+2) Effect Analysis on the Thermal Load by Balcony of Apartment House(2000), ¹Ú¿ë½Â, ÀÌÀºÅÃ, È«Èñ±â
+3) Heating, ventilating, and air conditioning: analysis and design(1982), FC McQuiston, JD Parker ? osti.gov
+4) Cooling load prediction for buildings using general regression neural networks
+AE Ben-Nakhi, MA Mahmoud - Energy Conversion and Management(2004), Elsevier
