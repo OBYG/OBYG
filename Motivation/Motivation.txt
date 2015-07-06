@@ -1,0 +1,13 @@
+OBYG 
+
+Before we begin our project, we have to explain what subject and dataset are selected. We are going to explore "house structure dataset". 
+If you want to choose your house to stay, what factors are you going to consider? Just in case of Korea, people consider many complex factors.
+For example, Parents want to move their house near school which is good for their children to get better education.
+And, some people consider the location which is near the subway station. It will be easy to take public transportation.
+Like above examples, there are a lot of factors we have to consider to select our house.
+But, if we set aside the price and accessability of residence, basic factors such as whether the house is well-lighted are to be the main things we should take into account when choosing a house to live in.
+Everyone agrees that low-cost residence like a rooftop or semi-basement house contains the worst conditions in that it's hot in summer and cold in winter.
+The basic and fundamental function of residence is 'Heating Load and Cooling Load(Energy Efficiency)'. 
+We are going to analyze the house structure dataset which can reveal some valuable information to us.
+The goal of this 2-weeks project is to find out which factor is the most influential to heating and cooling load. Through this group project, 
+we will be able to adapt the result when choosing our own residence in real life.    
