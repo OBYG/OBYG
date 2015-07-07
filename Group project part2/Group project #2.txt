@@ -1,4 +1,4 @@
-OBYG : SeungHwan_Kim/ DongHyuk_Kim/Yujung_Lee/Hyerin_Kim
+OBYG : SeungHwan_Kim/ DongHyuk_Kim/Yujeong_Lee/Hyerin_Kim
 
 Group Project Question Identified
 -Which factors affect to house energy efficiency?-
@@ -42,7 +42,7 @@ influences between each variable.
 
 5. Provide references
 1) The Building Sustainability Index (BASIX) ,New Sounth Wales Goverment, http://www.basix.nsw.gov.au
-2) Effect Analysis on the Thermal Load by Balcony of Apartment House(2000), ¹Ú¿ë½Â, ÀÌÀºÅÃ, È«Èñ±â
+2) Effect Analysis on the Thermal Load by Balcony of Apartment House(2000), Â¹ÃšÂ¿Ã«Â½Ã‚, Ã€ÃŒÃ€ÂºÃ…Ãƒ, ÃˆÂ«ÃˆÃ±Â±Ã¢
 3) Heating, ventilating, and air conditioning: analysis and design(1982), FC McQuiston, JD Parker ? osti.gov
 4) Cooling load prediction for buildings using general regression neural networks
 AE Ben-Nakhi, MA Mahmoud - Energy Conversion and Management(2004), Elsevier
